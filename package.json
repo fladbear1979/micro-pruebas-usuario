@@ -1,7 +1,7 @@
 {
   "name": "micro-pruebas-usuario",
   "version": "1.0.0",
-  "description": "Una herramienta sencilla para crear y administrar micro-pruebas de usuario en aplicaciones web.",
+  "description": "Una herramienta sencilla para crear y administrar micro-pruebas de usuario en aplicaciones web, facilitando la evaluación de la experiencia del usuario.",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
