@@ -4,15 +4,15 @@
   "description": "Una herramienta sencilla para crear y administrar micro-pruebas de usuario en aplicaciones web.",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "test": "jest"
+    "start": "node src/index.js", // Command to start the application
+    "test": "jest" // Command to run tests
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "body-parser": "^1.19.0"
+    "express": "^4.17.1", // Express framework for building web applications
+    "body-parser": "^1.19.0" // Middleware for parsing request bodies
   },
   "devDependencies": {
-    "jest": "^26.6.0"
+    "jest": "^26.6.0" // Testing framework
   },
   "author": "Tu Nombre",
   "license": "MIT"
