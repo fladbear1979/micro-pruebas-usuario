@@ -14,7 +14,7 @@
   "devDependencies": {
     "jest": "^26.6.0"
   },
-  "author": "Juan Pérez",  // Updated author name
+  "author": "Juan Pérez",
   "license": "MIT",
   "repository": {
     "type": "git",
